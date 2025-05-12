@@ -6,15 +6,8 @@ Datos para el inicio de secion
 Usuario: johnd
 Contraseña: m38rmF$
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![img5](https://github.com/user-attachments/assets/e3dca84d-3c70-4011-b0e4-8c1ac6e54295)
+![img4](https://github.com/user-attachments/assets/0f42edb5-4efe-464c-93cb-c47de15f387c)
+![img3](https://github.com/user-attachments/assets/da33f188-cba7-47d6-b2b4-c6f2cf794455)
+![img2](https://github.com/user-attachments/assets/f96a8fcf-2206-4077-ba49-77de29f6f7e0)
+![img1](https://github.com/user-attachments/assets/ca7ed1a3-fc64-41a5-af76-ec2ea9a4a904)
