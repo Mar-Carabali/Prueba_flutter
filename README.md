@@ -1,6 +1,6 @@
 # app_proyecto
 
-Esta aplicación Flutter permite a los usuarios explorar una lista de productos, agregar artículos a un carrito de compras, modificar cantidades, eliminar productos, y realizar una compra con confirmación. Incluye navegación entre distintas pantallas (Inicio, Perfil, Carrito) y una pantalla de factura al finalizar la compra.
+Esta aplicación Flutter permite a los usuarios explorar una lista de productos, agregar artículos a un carrito de compras, modificar cantidades, eliminar productos, y realizar una compra con confirmación. Incluye navegación entre distintas pantallas (Inicio, Carrito) y una pantalla de factura al finalizar la compra.
 
 Datos para el inicio de secion
 
